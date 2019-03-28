@@ -1,3 +1,6 @@
+Ce code est peut-etre incompréhensible pour les écoliers.
+
+
 #!/bin/bash
 ####################################
 #
